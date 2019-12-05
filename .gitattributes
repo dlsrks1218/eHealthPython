@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 * linguist-vendored
-*.py linquist-vendored=false
+/home/hp/jupyter/ljh/eHealthPython/PySEAL/SEALPython/*.py linquist-vendored=false
