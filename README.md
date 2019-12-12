@@ -7,5 +7,5 @@
 - Homomorphic Encryption 
 
 ### Reference
-- [https://github.com/Lab41/PySEAL](https://github.com/Lab41/PySEAL "Homomorphic Encryption Library") is a fork of Microsoft Research's homomorphic encryption implementation, the Simple Encrypted Arithmetic Library (SEAL). This code wraps the SEAL build in a docker container and provides Python API's to the encryption library
+- ~~[https://github.com/Lab41/PySEAL](https://github.com/Lab41/PySEAL "Homomorphic Encryption Library") is a fork of Microsoft Research's homomorphic encryption implementation, the Simple Encrypted Arithmetic Library (SEAL). This code wraps the SEAL build in a docker container and provides Python API's to the encryption librar~~y
 - [https://coderzcolumn.com/tutorials/python/paillier-homomorphic-encryption-phe](https://coderzcolumn.com/tutorials/python/paillier-homomorphic-encryption-phe "Paillier Homomorphic Encryption Scheme") is a public key homomorphic encryption scheme. Python library paillier provides implemetation of paillier cryptosystem.
