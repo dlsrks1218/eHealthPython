@@ -9,3 +9,13 @@
 ### Reference
 - ~~[https://github.com/Lab41/PySEAL](https://github.com/Lab41/PySEAL "Homomorphic Encryption Library") is a fork of Microsoft Research's homomorphic encryption implementation, the Simple Encrypted Arithmetic Library (SEAL). This code wraps the SEAL build in a docker container and provides Python API's to the encryption librar~~y
 - [https://coderzcolumn.com/tutorials/python/paillier-homomorphic-encryption-phe](https://coderzcolumn.com/tutorials/python/paillier-homomorphic-encryption-phe "Paillier Homomorphic Encryption Scheme") is a public key homomorphic encryption scheme. Python library paillier provides implemetation of paillier cryptosystem.
+
+
+* docker run -d -p 48888:8888 -e GRANT_SUDO=yes --user=root -v /home/hp/jupyter/ljh/eHealthPython:/home/jovyan/work --name eHealth_jupyter dlsrks1218/base-notebook-ehealth
+
+* docker exec -it 'container ID' /bin/bash
+
+* wget으로 vim 다운로드
+wget ftp://ftp.vim.org/pub/vim/unix/vim-7.4.tar.bz2
+* bzip2로 압축 해제
+tar -xvf vim-7.4.tar.bz2
